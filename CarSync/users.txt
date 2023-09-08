@@ -1,3 +1,0 @@
-NIF: 200000004 Password: $2a$10$pDbCXtrPFBIGVOpG9jBzteI4Qa.DEkRdCMRhRTBCxTBlc.pPqvOeC Type: employee with access level: 2
-NIF: 200000005 Password: $2a$10$q0poeeTzvPh/I2NPBuWvIOnV5ADP5b8HyS7nIoRcwRHVwf/q9FngO Type: employee with access level: 1
-NIF: 200000071 Password: $2a$10$M.R75bN11Asb1WYVwa8AF.VDSvn51S4S.NxgO1mDhuh4v31FXasP6 Type: employee with access level: 2
