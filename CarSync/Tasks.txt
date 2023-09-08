@@ -1,0 +1,63 @@
+Task ID: 1
+    Type: Update Vehicle Color
+    Status: Closed
+    Date: 2023-08-31
+    NIF: 200000000
+    Values: 10-CF-54,White
+
+Task ID: 2
+    Type: Update Customer Email
+    Status: Closed
+    Date: 2023-08-31
+    NIF: 200000000
+    Values: 200000000,novomail12@gmail.com
+
+Task ID: 3
+    Type: Vehicle Registration
+    Status: Open
+    Date: 2023-08-31
+    NIF: 200000000
+    Values: 11-11-OD,123456789IUYTFRDS,Blue,Aston Martin,Nova,2023-08-19,Heavy-duty Passenger Vehicle,200000000
+
+Task ID: 4
+    Type: Insurance Registration
+    Status: Open
+    Date: 2023-08-31
+    NIF: 200000000
+    Values: 100000011,10-CF-54,2023-08-17,Third Party Fire and Auto-Liabitlity,2024-08-29,Logo
+
+Task ID: 5
+    Type: Update Vehicle Color
+    Status: Open
+    Date: 2023-08-31
+    NIF: 200000000
+    Values: 10-CF-54,Blue
+
+Task ID: 6
+    Type: Vehicle Registration
+    Status: Open
+    Date: 2023-08-31
+    NIF: 200000000
+    Values: 18-FF-65,16GHQESF321YERTQ1,Red,Ferrari,F50,1998-08-15,Light Passenger Vehicle,200000000
+
+Task ID: 7
+    Type: Insurance Registration
+    Status: Open
+    Date: 2023-08-31
+    NIF: 200000000
+    Values: 999333111,10-CF-54,2022-08-06,Third Party Fire and Auto-Liabitlity,2023-08-26,ACP Seguuros
+
+Task ID: 8
+    Type: Update Vehicle Color
+    Status: Open
+    Date: 2023-08-31
+    NIF: 200000000
+    Values: 10-CF-54,Gray
+
+Task ID: 9
+    Type: Vehicle Deactivation
+    Status: Open
+    Date: 2023-08-31
+    NIF: 200000000
+    Values: 10-CF-54
+
