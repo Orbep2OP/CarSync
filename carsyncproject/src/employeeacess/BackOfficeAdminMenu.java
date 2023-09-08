@@ -69,7 +69,7 @@ public class BackOfficeAdminMenu extends JFrame implements ValidateInput {
 //        mainFrame.setLayout(new BorderLayout());
 
 
-        ImageIcon imageIcon = new ImageIcon("C:\\Users\\PedroOriakhi\\OneDrive - Polarising, Unipessoal, Lda\\Documentos\\GitHub\\IMTT-alike\\CarSyncSmaller.png");
+        ImageIcon imageIcon = new ImageIcon("CarSyncSmaller.png");
         JLabel imageLabel = new JLabel(imageIcon);
 
 //        GridBagConstraints gbc2 = new GridBagConstraints();
